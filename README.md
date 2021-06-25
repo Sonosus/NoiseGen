@@ -1,5 +1,10 @@
-# Title
+# Noise Generator
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+This is a pink/white noise generator PCB that uses the Electric Druid NOISE2 chip. It is powered with +-12v and is perfect for use in compact synths. It can be used to make a Eurorack/Kosmo module, or in custom synth builds. 
+
+Buy your chips from Electric Druid to help fund their development of future chips like these.
+
+Interactive BOM [here](http://htmlpreview.github.io/?https://github.com/Sonosus/NoiseGen/blob/main/Docs/NoiseGen.html)
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
